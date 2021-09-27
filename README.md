@@ -1,0 +1,2 @@
+# Script
+Script Buat Pribadi
